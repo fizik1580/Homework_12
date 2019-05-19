@@ -12,7 +12,7 @@ public class Dell_all_spaces {
 
         String in_str, out_str;
 
-        // Data processing
+                // Data processing
 
         Scanner scan = new Scanner(System.in);
 
